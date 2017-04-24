@@ -1,0 +1,6 @@
+[package]
+name = "simple_Array"
+version = "0.1.0"
+authors = ["sriram23 <sriramsubramanian23@gmail.com>"]
+
+[dependencies]
